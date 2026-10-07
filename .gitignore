@@ -1,0 +1,18 @@
+# UE が自動生成するもの（コミット不要）
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# エディタ・IDE
+.vs/
+.idea/
+*.sln
+*.suo
+*.VC.db
+*.VC.opendb
+
+# OS
+Desktop.ini
+Thumbs.db
+.DS_Store
